@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestApiPokedex.iml" filepath="$PROJECT_DIR$/RestApiPokedex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pokedex.iml" filepath="$PROJECT_DIR$/pokedex.iml" />
     </modules>
   </component>
 </project>
