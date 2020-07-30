@@ -58,4 +58,9 @@ public class PokemonController {
                         )
                 .defaultIfEmpty(ResponseEntity.notFound().build());
     }
+
+    @DeleteMapping
+    public Mono<Void> deleteAllPokemons(){
+        return repository.deleteAll();
+    }
 }
